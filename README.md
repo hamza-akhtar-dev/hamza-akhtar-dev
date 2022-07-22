@@ -22,9 +22,9 @@
 
 I am a Full MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-<!-- - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as Computer Science Chaper Head in IET On Campus UET Lahore.
 
-- :seedling: Exploring Technical Content Writing.
+<!-- - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
