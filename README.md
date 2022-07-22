@@ -24,7 +24,7 @@ I am a Full MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :telescope: I’m working as Computer Science Chaper Head in IET On Campus UET Lahore.
 
-<!-- - :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Universe as an Astrophile.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
