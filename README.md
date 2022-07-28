@@ -22,7 +22,7 @@
 
 I am a Full MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
-- :telescope: I’m working as Computer Science Chatper Head in IET On Campus UET Lahore.
+- :telescope: I’m working as Computer Science Chapter Head in IET On Campus UET Lahore.
 
 - :seedling: Exploring Universe as an Astrophile.
 
