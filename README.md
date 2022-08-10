@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=hamza-akhtar-dev&style=flat-square&color=blue" alt="Views Counter"/>
+    <img src="https://komarev.com/ghpvc/?username=HamxaCodes&style=flat-square&color=blue" alt="Views Counter"/>
 </div>
 
 ---
