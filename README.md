@@ -52,8 +52,6 @@ I am a Full MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcM
 
 <div align="center">
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HamxaCodes&theme=dark&background=000000)](https://git.io/streak-stats)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamxaCodes)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
