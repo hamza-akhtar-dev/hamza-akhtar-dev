@@ -1,59 +1,51 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B!+I'm+Hamza+Akhtar)](https://git.io/typing-svg)
+# Hi there 👋, I'm Hamza Akhtar
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/hamza-akhtar-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCQNrmslzRXs9IwIsQd97BcA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/i_TheMartian">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+**Semiconductor Professional | Strategy & Technical Execution | AI/ML Engineer**
+*Pushing the Edges of Moore's Law*
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=HamxaCodes&style=flat-square&color=blue" alt="Views Counter"/>
-</div>
+I am a Senior Design Engineer and AI/ML professional with expertise spanning custom silicon, SystemVerilog/UVM verification, and machine learning. I blend constrained-random verification for complex digital designs with computer vision and data science to optimize hardware and software systems.
+
+## 🧠 About Me
+
+- 🔭 **Currently working on:** Leading a team of engineers at Xcelerium to drive a state-of-the-art AI chip to tape out, while also directing 'Uraan', a non-profit I founded to teach modern skills to underprivileged children.
+- 🌱 **AI/ML & Research:** Previously worked as a Research Assistant at LUMS, coding Convolutional Neural Networks (CNNs) in PyTorch to predict urban planning strategies from satellite imagery.
+- 💬 **Ask me about:** RISC-V architecture (pipelining & single-cycle processors), pipeline hazard analysis, UVM closures, and Python/Computer Vision applications.
+- ⚡ **Community & Leadership:** Served as President of IET On Campus UET Lahore, leading 70+ volunteers and conducting tech seminars on GANs, RISC-V, and computational thinking.
 
 ---
 
-### :man_technologist: About Me
+## 🛠️ Tech Stack & Tools
 
-I am a Full MERN Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
+### Hardware & Verification
+- **Languages:** SystemVerilog (SV), Verilog, C/C++
+- **Methodologies:** UVM, SystemVerilog Assertions (SVA), Constrained-Random Verification, Formal Verification, GLS
+- **Protocols & Architecture:** AMBA AXI4, APB, Custom Vector Cores, RISC-V (5-stage pipelining)
+- **EDA Tools:** Synopsys VCS, Verdi, Formality, Mentor Questa, Xilinx Vivado
 
-- :telescope: I’m working as Computer Science Chapter Head in IET On Campus UET Lahore.
-
-- :seedling: Exploring Universe as an Astrophile.
-
-- :zap: In my free time, I solve problems on HackerRank.
-
-- :mailbox:Ping me up here: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-akhtar-dev/)
-
----
-
-### :hammer_and_wrench: Languages and Tools
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+### AI, Machine Learning & Software
+- **AI/ML:** PyTorch, Convolutional Neural Networks (CNNs), OpenCV, Computer Vision, Digital Signal Processing (DSP)
+- **Languages/Frameworks:** Python, CoCoTB, TCL, Bash/Shell Scripting, React JS
+- **Data & Automation:** AWS Batch, QGIS, Data Cleaning/Collection, Data Science
 
 ---
 
-### :fire: My Stats
+## 📈 Featured Projects & Research
 
-<div align="center">
+- **AI-Driven Urban Planning:** Built a Python application using OpenCV to trace roads into vector graphs from satellite images, and trained CNNs to predict efficient urban strategies.
+- **Automated AXI Performance Monitoring:** Engineered a data visualization pipeline to probe transaction traffic across AXI Masters/Slaves and identify RTL bottlenecks.
+- **RISC-V Processor Design Curriculum:** Designed lab coursework for RISC-V architecture at UET Lahore, teaching SystemVerilog HDL, single-cycle processor design, and 5-stage pipeline optimization.
+- **Custom Test Generator:** Applied Random Instruction Sequencing (RIS) to systematically achieve 100% functional coverage on target design blocks.
+- **UVM-Based AMBA Interconnect Verification:** Architected a full UVM testbench from scratch for an AXI-to-APB bridge, securing 100% verification closure.
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hamza-akhtar-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-akhtar-dev)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 Let's Connect
 
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamza-akhtar-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hamzaakhtar8812@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
